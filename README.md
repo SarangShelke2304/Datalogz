@@ -111,7 +111,7 @@ The project was developed as part of the Datalogz assignment, demonstrating **ba
 
 1. **Clone the Repo**  
    ```bash
-   git clone <https://github.com/SarangShelke2304/Datalogz>
+   git clone <https://github.com/SarangShelke2304/Datalogz.git>
 
 2. **Create a virtual env**
    ```bash
