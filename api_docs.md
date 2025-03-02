@@ -4,7 +4,7 @@ The **Student Management System** provides RESTful endpoints to manage students,
 
 - **Base URL**: `http://127.0.0.1:8000`
     
-- **Authentication**: **Bearer Token** via OAuth2
+- **Authentication**: **Bearer Token** via HTTPBearer
     
 
 ---
